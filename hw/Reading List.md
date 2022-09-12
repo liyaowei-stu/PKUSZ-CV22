@@ -1,6 +1,11 @@
 *Student ID: 2201111734*
 
-*Name: Li Yaowei*
+*Name: 李耀伟*
+
+*Partner: 朱志宏 2201212871*
+
+*Topic: **Medical Report Generation / Medical Image Caption***
+
 - - -
 ## Intensive：
 - [MAE](https://arxiv.org/pdf/2111.06377.pdf) --BERT CV版，采用Mask机制完成VL预训练
