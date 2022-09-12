@@ -8,8 +8,8 @@
 
 - - -
 ## Intensive：
-- [MAE](https://arxiv.org/pdf/2111.06377.pdf) --BERT CV版，采用Mask机制完成VL预训练
-- [CLIP](https://arxiv.org/pdf/2103.00020.pdf) --采用对比学习完成VL预训练
+- [MAE](https://arxiv.org/pdf/2111.06377.pdf) --BERT CV版，采用Mask机制完成预训练
+- [CLIP](https://arxiv.org/pdf/2103.00020.pdf) --采用对比学习完成预训练
 
 ## Skipping：
 
